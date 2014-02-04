@@ -1,5 +1,7 @@
 # OwaspRiScraper
 
+[![Build Status](https://travis-ci.org/PVDTechEvents/owasp_ri_scraper.png?branch=master)](https://travis-ci.org/PVDTechEvents/owasp_ri_scraper)
+
 Scrape currently scheduled event from [OWASP RI](https://www.owasp.org/index.php/Rhode_Island).
 Built for automating updates to [PVDTechEvents.com](http://pvdtechevents.com/).
 
