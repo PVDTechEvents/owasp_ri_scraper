@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Rhode Island - OWASP</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.19.7" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="OWASP (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="https://www.owasp.org/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="OWASP Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="https://www.owasp.org/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="/extensions/HeaderTabs/skins-jquery/ext.headertabs.jquery-large.css" /><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="https://www.owasp.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}.editsection{display:none}
+
+/* cache key: wiki:resourceloader:filter:minify-css:7:40436297bd93906a010108e46094c495 */
+</style>
+
+<script src="https://www.owasp.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Rhode_Island","wgTitle":"Rhode Island","wgCurRevisionId":166465,"wgArticleId":24054,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["OWASP Chapter","United States"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Rhode_Island","wgRestrictionEdit":[],"wgRestrictionMove":[],"htTabIndexes":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":false,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,
+"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs274":false,"searchNs275":false});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: wiki:resourceloader:filter:minify-js:7:f37fc1ccdaf15dc53cf1b265e420e353 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Rhode_Island skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading">
+				<span dir="auto">Rhode Island</span>
+			</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From OWASP</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to: <a href="#mw-head">navigation</a>,
+					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#OWASP_Rhode_Island"><span class="tocnumber">1</span> <span class="toctext">OWASP Rhode Island</span></a></li>
+<li class="toclevel-1"><a href="#Participation"><span class="tocnumber">2</span> <span class="toctext">Participation</span></a></li>
+<li class="toclevel-1"><a href="#Sponsorship.2FMembership"><span class="tocnumber">3</span> <span class="toctext">Sponsorship/Membership</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#LinkedIn_Group"><span class="tocnumber">4</span> <span class="toctext">LinkedIn Group</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#ListServ"><span class="tocnumber">5</span> <span class="toctext">ListServ</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Sponsor.2FHost"><span class="tocnumber">6</span> <span class="toctext">Sponsor/Host</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Next_Meeting"><span class="tocnumber">7</span> <span class="toctext">Next Meeting</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Location"><span class="tocnumber">7.1</span> <span class="toctext">Location</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Past_Meetings"><span class="tocnumber">8</span> <span class="toctext">Past Meetings</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="OWASP_Rhode_Island"> OWASP Rhode Island </span></h2>
+<p>Welcome to the Rhode Island chapter homepage. The chapter leader is <a rel="nofollow" class="external text" href="mailto:patrick.laverty@owasp.org">Patrick Laverty</a>. <br />
+<b><a rel="nofollow" class="external text" href="http://lists.owasp.org/mailman/listinfo/owasp-rhodeisland">Click here</a> to join the local chapter mailing list. </b>
+</p>
+<h2> <span class="mw-headline" id="Participation"> Participation </span></h2>
+<p>OWASP Foundation (<a rel="nofollow" class="external text" href="https://docs.google.com/a/owasp.org/presentation/d/1ZgY25F0F7QgScMlB1X7LAa70LtyJql8XqcYdR4suPUo/edit#slide=id.p">Overview Slides</a>) is a professional association of <a href="/index.php/Membership" title="Membership"> global members</a> and is and open to anyone interested in learning more about software security. Local chapters are run independently and guided by the <a href="/index.php/Chapter_Leader_Handbook" title="Chapter Leader Handbook" class="mw-redirect">Chapter_Leader_Handbook</a>.  As a <a href="/index.php/About_OWASP" title="About OWASP" class="mw-redirect"> 501(c)(3)</a> non-profit professional association your support and sponsorship of any meeting venue and/or refreshments is tax-deductible. Financial contributions should only be made online using the authorized online chapter donation button.  To be a <b>SPEAKER</b> at ANY OWASP Chapter in the world simply review the <a href="/index.php/Speaker_Agreement" title="Speaker Agreement"> speaker agreement</a> and then contact the local chapter leader with details of what OWASP PROJECT, independent research or related software security topic you would like to present on.
+</p>
+<h2> <span class="mw-headline" id="Sponsorship.2FMembership"> Sponsorship/Membership  </span></h2>
+<p><a href="http://www.regonline.com/donation_1044369"><img alt="Btn donate SM.gif" src="/images/7/7a/Btn_donate_SM.gif" width="74" height="21" /></a> to this chapter or become a local chapter supporter.
+</p><p>Or consider the value of <a href="/index.php/Membership" title="Membership"> Individual, Corporate, or Academic Supporter membership</a>. Ready to become a member? <a href="https://www.owasp.org/index.php/Membership_Map"><img alt="Join Now BlueIcon.JPG" src="/images/thumb/9/91/Join_Now_BlueIcon.JPG/75px-Join_Now_BlueIcon.JPG" width="75" height="32" /></a>
+</p>
+<h1> <span class="mw-headline" id="LinkedIn_Group">LinkedIn Group</span></h1>
+<p>Please join our LinkedIn Discussion group and join in the conversation: <a rel="nofollow" class="external text" href="http://www.linkedin.com/groups/OWASPRhode-Island-4895793?trk=myg_ugrp_ovr">LinkedIn Discussions</a>
+</p>
+<h1> <span class="mw-headline" id="ListServ">ListServ</span></h1>
+<p>Please join our listserv (link on the left "Mailing Lists") and find out about upcoming meetings. This is a "push-only" list and will only be used for meeting announcements and membership list is never shared with anyone.
+</p>
+<h1> <span class="mw-headline" id="Sponsor.2FHost">Sponsor/Host</span></h1>
+<p>OWASP RI is generously sponsored by Swipely with both their office space at 10 Dorrance St, 3rd Floor, Providence, RI as well as with refreshments at meetings. We thank Swipely for their sponsorship of OWASP RI
+</p>
+<h1> <span class="mw-headline" id="Next_Meeting"> Next Meeting </span></h1>
+<pre><b>February 12, 5:45 pm</b>
+Preventing XSS with CSP
+</pre>
+<p>Cross-Site Scripting is one of the most pervasive web application security flaws, and one attackers frequently target for attack. While the best line of defense for Cross-Site Scripting is defensively programming with proper input validation and context-sensitive output encoding, Content-Security Policy is quickly becoming a very effective mitigation strategy to protect sites' visitors and to warn application developers of potential attacks. This talk will cover content injection (including Cross-Site Scripting) and how Content-Security Policy mitigates many of the associated risks.
+</p><p>Will Stranathan is an application security professional in the Charlotte, North Carolina area. He's been writing rotten code for 32 years, and has spent the last ten years breaking rotten applications, analyzing rotten code, and writing rotten code which helps the world's best programmers identify their own rotten code, and training developers how to write code that's not so rotten.
+</p><p>Food and beverages will be provided by our host and sponsor, <a rel="nofollow" class="external text" href="http://www.swipely.com">Swipely</a>!
+</p>
+<h2> <span class="mw-headline" id="Location"> Location </span></h2>
+<p>Swipely Headquarters
+</p><p>10 Dorrance St. &lt;--- New Location!!
+</p><p>Providence, RI
+</p><p><br />
+</p>
+<h1> <span class="mw-headline" id="Past_Meetings"> Past Meetings </span></h1>
+<pre><b>November 25, 5:45 pm</b>
+</pre>
+<p>Unmasking DDoS Protected Web Sites<br />
+</p>
+<p>We will have Allison Nixon, fresh off her talk at Black Hat in Las Vegas to show how to bypass DDoS-protected web sites. If you would like to participate, please bring the following setup:<br />
+
+Laptop with a WiFi connection, Kali Linux installed with Perl, Wireshark and ability to run as root. Please also have an email address where you are able to view the mail headers. Lastly, it would be helpful if you do have access to your own web server, though this one is not a requirement to participate.</p>
+<pre><b>September 23, 5:45 pm</b>
+</pre>
+<p>JavaScript Verification: From Browsers to Pages<br />
+</p>
+<p>Modern web browsers implement a "private browsing" mode that is intended to leave behind no traces of a user's browsing activity on their computer.  This feature is in direct tension with support for *extensions*, which let users add third-party functionality into their browser.  I will discuss the scope of this problem, present our approach to verifying extensions' compliance with private browsing mode, and sketch our findings on several real, third-party extensions.  I will then briefly describe the toolkit underlying our approach, and end with a sketch of a newer project, adapting this approach to the very different-seeming problem of statically catching errors when using the jQuery library.</p>
+<pre><b>Monday, April 15, 5:45 pm</b>
+</pre>
+<p>Evolving WAS - Taking remediation to the next level<br />
+</p>
+<p>It will be presentation and discussion around some of the things he has found helpful in building and evolving security programs over the past few years. It will cover everything around building a program from the low level like scan engine choice, all the way to the high level needs like senior management buy-in techniques to establish a sustainable program. By Nick MacCarthy</p>
+<p><br />
+</p>
+<pre><b>Monday March 4, 5:45 pm</b>
+</pre>
+<p>Hands-on Hacking<br />
+</p>
+<p>If you remember our March 2012 meeting, we had Allison Nixon come and show us how to use SQL injection to get access to a web database, as well as how to prevent it. We learned how to think like a hacker. We'll we're going to bring that back and do something similar. Except this time, we're going to make it even more fun by turning it into a sort of capture the flag. We'll stay educational and non-competitive, and we'll aim to have multiple levels of flags to obtain.&lt;p&gt;
+
+&lt;p&gt;We will look to have a lecture/lesson portion on SQL injection, then the hands-on time. We will then try to repeat the process for Cross-Site Scripting (XSS) where you can learn and play with the dangers of this vector.</p>
+<p>Please bring your own laptop to be involved with the lessons. As always, we are demonstrating these techniques to help developers think like the attackers and so we can better understand the vectors and better understand how to protect our sites and code. OWASP, the organizers and sponsors do not condone illegal activity.  We also remind you to never use these techniques against a site or network that you either do not own or do not have explicit, written permission to perform them on. In other words, don't blame us if you get arrested.</p>
+<pre><b>Wednesday November 7, 5:45 pm</b>
+</pre>
+<p>PCI in the Cloud<br />
+</p>
+<p>Interested in cloud security and compliance?  Good architecture and planning are the foundation for solid security, but infrastructure providers have raised the level of abstraction and now companies of all sizes are making use of cloud services to build high-security environments with modest engineering effort.  At Swipely, we process credit cards in partnership with the world's largest Payment Processor and the US’s largest bank.  Learn how a startup can achieve Level 1 PCI Compliance through isolation, technology selection, and aggressive automation, all while promoting a security-conscious and agile engineering culture.</p>
+<p>Bright Fulton - [Swipely | <a rel="nofollow" class="external free" href="http://www.swipely.com">http://www.swipely.com</a>]/<br />
+200 Dyer Street, Providence, RI
+</p>
+<pre><b>Tuesday October 9, 6:45 pm</b>
+</pre>
+<p><b>The Evolution of the Information Security Management Function</b><br />
+Information security has evolved as a discipline over the last two decades, and managing a security program is no longer just administering firewall rules.  In this talk, the group will hear something away from the bits and bytes, and hear how security management programs are moving towards a holistic risk mitigation and reduction functions that may include privacy and compliance.<br />
+David Sherry, CISO, Brown University<br /> 
+</p>
+<pre><b>Tuesday September 18, 6:45 pm</b>
+</pre>
+<p>There is No Patch For Human Stupidity<br />
+Darren will come and show us all the fun and foibles that come with the confidence game, also known as social engineering. Learn how to look out for people just trying to get information from you and steal all your secrets. Outsmart the smart people by just saying no.<br />
+Darren Wigley, NWN Corporation<br />
+</p>
+<pre><b>Tuesday August 21, 6:45 pm</b>
+</pre>
+<p><b>Finding All The Ninjas in the Forrest: Web Application Testing Strategies Revisited</b><br />
+Have you ever wondered what you might miss if an organization had over
+800 web applications? How do you know where all your web applications
+exist? What if your targets built in traps for you to fall into?
+Finding, discovering, enumerating and testing for web application
+vulnerabilities is a tedious process. To top it all off, the remediation
+is rarely as easy as applying a patch or updating a configuration
+setting. Learn some tips and tricks to conduct more effective web
+application tests and help with remediation efforts.
+Paul Asadoorian - PaulDotCom (<a rel="nofollow" class="external free" href="http://www.pauldotcom.com">http://www.pauldotcom.com</a>)<br />
+</p>
+<pre><b>Tuesday July 17, 6:45 pm</b>
+</pre>
+<p>Practical Malware Analysis 101
+Brandon Levene - Dell SecureWorks 
+This will be an introduction to modern malware as the primary vector of intrusions. Detection of malware is crucial, and equally important is being able to differentiate between true and false positives. During this talk I will introduce techniques used by the industry to identify potentially malicious software without disassembly or debugging.
+<b>Location:</b>
+Brown University Continuing Education
+200 Dyer Street
+Providence, RI
+<a rel="nofollow" class="external autonumber" href="https://maps.google.com/maps?q=200+Dyer+Street,+Providence+ri&amp;ie=UTF-8&amp;hq=&amp;hnear=0x89e44515a1d257ab:0xb73c2a45e92559d9,200+Dyer+St,+Providence,+RI+02903&amp;gl=us&amp;ei=FMrHT5jnPObN6QGlz7XRDw&amp;oi=geocode_result&amp;ved=0CAsQ8gEwAA%7Cmap">[1]</a>
+</p>
+<pre><b>Monday June 4, 6:45 pm</b>
+</pre>
+<p>Our next meeting is Monday, June 4, 6:45 pm at Swipely's headquarters in Providence's Jewelry District. The address is 39 Pike St in Providence (Google maps shows the church, but that's not it). The building also faces Benefit Street, across from Al Forno and has a billboard on the roof, near the Shell station. Come in through the side entrance.
+</p><p>You are all among the first to hear the great news about the Providence Web Application Security Group. As of April 25, we were granted chapter status with the Open Web Application Security Project (OWASP) for Rhode Island. This is a great development and you can find out more about OWASP at <a rel="nofollow" class="external free" href="http://www.owasp.org">http://www.owasp.org</a>
+</p><p>But if you don't want to surf the site to learn more, no worries, just come to the next meeting on Monday, June 4 to hear Tom Brennan from the OWASP International Board of Directors (via videoconference) tell us all about OWASP and everything they do and everything that is available to you. One of the best parts about OWASP is everything they do is FREE! They have free security tools, some free books, some free training, free videos, free meetings to attend and it's free to participate and contribute to new projects.
+</p><p>Also at the meeting, in keeping with the OWASP Security Blitz we will also have Paul McAndrew from Dell's Secureworks group  to talk about Cross Site Scripting (XSS). Paul is a Security Analyst at Dell SecureWorks responsible for analysis and event management on thousands of IDS/IPS/WAF devices deployed globally. This broad view of the Internet gives insight into the current threat landscape and new threats as they are emerging. Paul has been a security hobbyist for over 10 years, with a specific interest in network and web application security.
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 46/1000000
+Post‐expand include size: 1713/2097152 bytes
+Template argument size: 154/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key wiki:pcache:idhash:24054-0!*!0!!en!2!* and timestamp 20140204012724 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="https://www.owasp.org/index.php?title=Rhode_Island&amp;oldid=166465">https://www.owasp.org/index.php?title=Rhode_Island&amp;oldid=166465</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/index.php/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/index.php/Category:OWASP_Chapter" class="mw-redirect" title="Category:OWASP Chapter">OWASP Chapter</a></li><li><a href="/index.php/Category:United_States" title="Category:United States">United States</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Rhode+Island" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/index.php/Rhode_Island"  title="View the content page [c]" accesskey="c">Page</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/index.php?title=Talk:Rhode_Island&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/index.php/Rhode_Island" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/index.php?title=Rhode_Island&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/index.php?title=Rhode_Island&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/index.php" id="searchform">
+				<div>
+			<input type="search" name="search" title="Search OWASP [f]" accesskey="f" id="searchInput" />			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if exists" id="searchGoButton" class="searchButton" />			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" />					<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(/skins/monobook/ologo.png);" href="/index.php/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- Navigation -->
+<div class="portal" id='p-Navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-Home"><a href="/index.php/Main_Page">Home</a></li>
+			<li id="n-About-OWASP"><a href="/index.php/About_OWASP">About OWASP</a></li>
+			<li id="n-Acknowledgements"><a href="https://www.owasp.org/index.php/Acknowledgements" rel="nofollow">Acknowledgements</a></li>
+			<li id="n-Advertising"><a href="https://www.owasp.org/index.php/Advertising" rel="nofollow">Advertising</a></li>
+			<li id="n-AppSec-Conferences"><a href="/index.php/Category:OWASP_AppSec_Conference">AppSec Conferences</a></li>
+			<li id="n-Brand-Resources"><a href="https://owasp.org/index.php/Marketing/Resources" rel="nofollow">Brand Resources</a></li>
+			<li id="n-Chapters"><a href="https://www.owasp.org/index.php/OWASP_Chapter" rel="nofollow">Chapters</a></li>
+			<li id="n-Downloads"><a href="/index.php/Category:OWASP_Download">Downloads</a></li>
+			<li id="n-Governance"><a href="https://www.owasp.org/index.php/Governance" rel="nofollow">Governance</a></li>
+			<li id="n-Mailing-Lists"><a href="http://lists.owasp.org/mailman/listinfo" rel="nofollow">Mailing Lists</a></li>
+			<li id="n-Membership"><a href="/index.php/Membership">Membership</a></li>
+			<li id="n-News"><a href="/index.php/Application_Security_News">News</a></li>
+			<li id="n-OWASP-Books"><a href="http://stores.lulu.com/owasp" rel="nofollow">OWASP Books</a></li>
+			<li id="n-OWASP-Gear"><a href="http://www.rocksports-owasp.com" rel="nofollow">OWASP Gear</a></li>
+			<li id="n-OWASP-Initiatives"><a href="https://www.owasp.org/index.php/OWASP_Initiatives_Global_Strategic_Focus" rel="nofollow">OWASP Initiatives</a></li>
+			<li id="n-OWASP-Projects"><a href="/index.php/Category:OWASP_Project">OWASP Projects</a></li>
+			<li id="n-Presentations"><a href="/index.php/Category:OWASP_Presentations">Presentations</a></li>
+			<li id="n-Press"><a href="https://www.owasp.org/index.php/Press" rel="nofollow">Press</a></li>
+			<li id="n-Video"><a href="/index.php/Category:OWASP_Video">Video</a></li>
+			<li id="n-Volunteer"><a href="http://owasp.force.com/volunteers/GW_Volunteers__VolunteersJobListing" rel="nofollow">Volunteer</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /Navigation -->
+
+<!-- Reference -->
+<div class="portal" id='p-Reference'>
+	<h5>Reference</h5>
+	<div class="body">
+		<ul>
+			<li id="n-Activities"><a href="/index.php/Category:Activity">Activities</a></li>
+			<li id="n-Attacks"><a href="/index.php/Category:Attack">Attacks</a></li>
+			<li id="n-Code-Snippets"><a href="/index.php/Category:Code_Snippet">Code Snippets</a></li>
+			<li id="n-Controls"><a href="/index.php/Category:Control">Controls</a></li>
+			<li id="n-Glossary"><a href="/index.php/Category:Glossary">Glossary</a></li>
+			<li id="n-How-To..."><a href="/index.php/Category:How_To">How To...</a></li>
+			<li id="n-Java-Project"><a href="/index.php/Category:OWASP_Java_Project">Java Project</a></li>
+			<li id="n-.NET-Project"><a href="/index.php/Category:OWASP_.NET_Project">.NET Project</a></li>
+			<li id="n-Principles"><a href="/index.php/Category:Principle">Principles</a></li>
+			<li id="n-Technologies"><a href="/index.php/Category:Technology">Technologies</a></li>
+			<li id="n-Threat-Agents"><a href="/index.php/Category:Threat_Agent">Threat Agents</a></li>
+			<li id="n-Vulnerabilities"><a href="/index.php/Category:Vulnerability">Vulnerabilities</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /Reference -->
+
+<!-- languageselector -->
+<div class="portal" id='p-languageselector'>
+	<h5>Language</h5>
+	<div class="body">
+		<ul>
+			<li id="n-languageselector" class="active"><a 0="https://www.owasp.org/index.php?title=Rhode_Island&amp;setlang=en" href="https://www.owasp.org/index.php?title=Rhode_Island&amp;setlang=en">English</a></li>
+			<li id="n-languageselector"><a 0="https://www.owasp.org/index.php?title=Rhode_Island&amp;setlang=es" href="https://www.owasp.org/index.php?title=Rhode_Island&amp;setlang=es">Español</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /languageselector -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/index.php/Special:WhatLinksHere/Rhode_Island" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/index.php/Special:RecentChangesLinked/Rhode_Island" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-specialpages"><a href="/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li><a href="/index.php?title=Rhode_Island&amp;printable=yes" rel="alternate">Printable version</a></li>
+			<li id="t-permalink"><a href="/index.php?title=Rhode_Island&amp;oldid=166465" title="Permanent link to this revision of the page">Permanent link</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 23 January 2014, at 13:39.</li>
+											<li id="footer-info-viewcount">This page has been accessed 9,194 times.</li>
+											<li id="footer-info-copyright">Content is available under <a class="external" href="http://creativecommons.org/licenses/by-sa/3.0/">a Creative Commons 3.0 License</a>.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/index.php/OWASP:Privacy_policy" title="OWASP:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/index.php/OWASP:About" title="OWASP:About">About OWASP</a></li>
+											<li id="footer-places-disclaimer"><a href="/index.php/OWASP:General_disclaimer" title="OWASP:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="https://www.owasp.org/images/f/fa/Somerights20.png" alt="a Creative Commons 3.0 License" width="88" height="31" /></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+						<a href="http://www.rackspace.com/cloud/managed_cloud/"><img src="/images/Powered_By_Rackspace_logo.png" alt="Powered by Rackspace Managed Cloud" height="30" width="100" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script src="https://www.owasp.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.page.ready","ext.languageSelector","ext.headertabs"], null, true);
+}</script>
+<script type="text/javascript">
+function buildContent (blog) {
+    var MONTH_NAMES = [ "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec" ];
+    if (!blog || !blog.items) return;  var container=document.getElementById("container");
+    var code="";  for (var i = 0; i < blog.items.length; i++) {   var item = blog.items[i];
+    var date = new Date();    date.setTime( 4 + item.published * 1000 );
+    var datestring = MONTH_NAMES[date.getMonth()]+" "+(date.getDate());
+    code=code+"<div style='font-weight:bold'>"+datestring+" - ";    
+    code=code+"<a href='"+item.alternate.href+"'>"+item.title+"</a> (by ";
+    code=code+"<a href='"+item.origin.streamId.substring(5)+"'>"+item.author+"</a>)</div>";
+    var text=""+item.content;
+    if (text == "undefined" ) {
+	  text=item.summary;
+    }
+    code=code+"<div>"+text+"</div><br>";
+    }
+    container.innerHTML=code;
+}
+</script> 
+<script type="text/javascript">
+function build_bloglist(data) {
+  var container = document.getElementById('blogroll');
+  var list = document.createElement('div');
+  // Loop through all data items returned
+  for (var i=0; i < data.items.length; i++) {
+    var item = data.items[i];
+		var link = document.createElement('a');
+		link.appendChild(document.createTextNode(item.title));
+	link.href = item.id;
+    list.appendChild(link);
+    list.appendChild(document.createElement('br'));
+  }
+  container.appendChild(list);
+}
+</script>
+<script type="text/javascript">
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<script type="text/javascript">
+			var pageTracker = _gat._getTracker("UA-725452-2");
+			pageTracker._initData();
+			pageTracker._trackPageview();
+			</script>
+
+<script src="https://www.owasp.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served in 0.129 secs. -->
+	</body>
+</html>
