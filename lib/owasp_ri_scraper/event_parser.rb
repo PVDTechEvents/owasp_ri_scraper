@@ -1,7 +1,10 @@
 require 'owasp_ri_scraper/event'
 require 'nokogiri'
+require 'active_support/time'
 
 module OwaspRiScraper
+
+  TIMEZONE = ActiveSupport::TimeZone["America/New_York"]
 
   class EventParser
 
@@ -15,7 +18,7 @@ module OwaspRiScraper
       description = event_node.children.select(&:text?).map(&:text).join("\n").strip
 
       Event.new(
-        Time.parse(start_time),
+        TIMEZONE.parse(start_time),
         nil,
         description
       )
